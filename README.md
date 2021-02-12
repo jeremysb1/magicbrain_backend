@@ -1,3 +1,3 @@
-# magicbrain_backend
+# Backend for Magicbrain project
 
-This is the backend for the face detection project with Node.js and Express.js.
+This is the backend for the face detection project with Node and Express.js.
